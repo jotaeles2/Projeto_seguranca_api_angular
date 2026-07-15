@@ -7,7 +7,7 @@ import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-epi-list',
-  imports: [RouterModule, EpiDetalhe,CommonModule],
+  imports: [RouterModule, EpiDetalhe, CommonModule],
   templateUrl: './epi-list.html',
   styleUrl: './epi-list.scss',
 
